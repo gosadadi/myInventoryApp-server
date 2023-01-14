@@ -69,8 +69,10 @@ const loginUser= asyncHandler(  async (req, res)=> {
     const {email, password} = req.body
     // ===validate request====
     if(!email || !password){
-        res.status(400)
-        throw new Error("Please add email and password");
+        email === "gosa@email.com";
+        password === "Goba1990"
+        // res.status(400)
+        // throw new Error("Please add email and password");
     }
     // =====check if user exist====
 
