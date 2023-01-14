@@ -12,4 +12,4 @@ The backend of the app is built using [Express](https://expressjs.com/), a popul
 
 ## Excerpt from authentication 
 ![alt text](https://github.com/gosadadi/images/blob/main/inventoryAuth.png)
-[Click here to see frontend]([url](https://github.com/gosadadi/myInventoryApp-client)
+[Click here to see frontend](https://github.com/gosadadi/myInventoryApp-client)
